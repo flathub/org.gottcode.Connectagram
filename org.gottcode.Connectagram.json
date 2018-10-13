@@ -11,9 +11,7 @@
 		"--socket=wayland",
 		"--socket=x11",
 		"--share=ipc",
-		"--share=network",
-		"--filesystem=xdg-config/kdeglobals:ro",
-		"--talk-name=com.canonical.AppMenu.Registrar"
+		"--share=network"
 	],
 	"cleanup": [
 		"/share/icons/hicolor/1024x1024"
