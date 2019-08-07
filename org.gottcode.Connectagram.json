@@ -25,8 +25,8 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "https://gottcode.org/connectagram/connectagram-1.2.9-src.tar.bz2",
-					"sha256": "ba5d459a83e13347d72c7ac95d9b2fb1a880886740ceb4b6b5402a3a988942be"
+					"url": "https://gottcode.org/connectagram/connectagram-1.2.10-src.tar.bz2",
+					"sha256": "04dbe12f52e68a0fececad1bbab08e279d7fd2f438e126bfc6d047daf1a55b75"
 				}
 			]
 		}
