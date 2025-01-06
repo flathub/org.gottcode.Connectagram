@@ -1,0 +1,16 @@
+diff --git a/icons/connectagram.appdata.xml b/icons/connectagram.appdata.xml
+index c16ed08..d3b1180 100644
+--- a/icons/connectagram.appdata.xml
++++ b/icons/connectagram.appdata.xml
+@@ -76,7 +76,7 @@
+     <binary>connectagram</binary>
+   </provides>
+   <launchable type="desktop-id">connectagram.desktop</launchable>
+-  <icon type="stock">connectagram</icon>
++  <icon type="stock">org.gottcode.Connectagram</icon>
+ 
+   <categories>
+     <category>Game</category>
+-- 
+2.44.0
+
